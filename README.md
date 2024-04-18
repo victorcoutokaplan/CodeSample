@@ -1,3 +1,3 @@
 # CodeSample
 
-I wrote this code for HackRice 13, where we participate in the Health and Biotech track. Our project optimally chose travel routes given data on which pharecies and stores had various health proje
+I wrote this code for HackRice 13, where we participated in the Health and Biotech track. We created an application which, given data on which pharmacies and stores could have various health products (previous user reported sightings and such), optimally chose travel routes in order to minimize expected travel time. I worked on the algorithm, which I have included here in the repo, along with a .gif demonstrating this algorithm in practice. The python file has the important functions, and the notebook has the code for generating and saving the animation, which is also included in the repo.
